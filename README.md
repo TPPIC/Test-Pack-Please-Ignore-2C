@@ -214,7 +214,15 @@ Current Modlist
 Diabled:
 * Opis
 
-Changelog (1.0.0-1.0.2)
+Changelog 1.0.2
+===============
+* Fix server files
+
+Changelog 1.0.1
+===============
+* Updated Forge
+
+Changelog 1.0.0
 ===============
 * Added mods
   * Replaced MineTweaker with CraftTweaker
